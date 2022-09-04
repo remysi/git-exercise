@@ -42,4 +42,3 @@
    42  git status
    43  ls
    44  history
-   Edited this file with nano command

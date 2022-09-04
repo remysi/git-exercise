@@ -12,13 +12,12 @@
    12  git remote set-url origin https://github.com/remysi/git-exercise.git
    13  git remote -v
    14  git remote -v
+16  git remote rm origin https://github.com/remysi/projektinNimi.git
    15  git remote rm https://github.com/remysi/projektinNimi.git
-   16  git remote rm origin https://github.com/remysi/projektinNimi.git
    17  git remote remove https://github.com/remysi/projektinNimi.git
    18  git remote remove origin https://github.com/remysi/projektinNimi.git
    19  git remote remove origin master https://github.com/remysi/projektinNimi.git
-   20  git remote remove origin master
-   21  git remote remove origin
+   20  g
    22  git remote -v
    23  git remote set origin https://github.com/remysi/git-exercise.git
    24  git remote add https://github.com/remysi/git-exercise.git
@@ -42,3 +41,4 @@
    42  git status
    43  ls
    44  history
+asadadada
